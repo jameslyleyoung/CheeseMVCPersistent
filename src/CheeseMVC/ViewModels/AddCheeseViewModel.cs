@@ -31,9 +31,6 @@ namespace CheeseMVC.ViewModels
                     Text = category.Name
                 });
             }
-            //TODO 1: Where do I put the list of select list items???
-            // in the Controller or here???  
-
             /*
             CheeseTypes = new List<SelectListItem>();
 
